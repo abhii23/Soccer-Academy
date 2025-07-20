@@ -1,2 +1,2 @@
 # Soccer-Academy
-a simple web page using html css php 
+a simple football academy web page using html css php 
